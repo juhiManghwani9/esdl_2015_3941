@@ -7,4 +7,6 @@ int main()
   cout<<"Enter two nos: "
   cin>>a>>b;
   c=a+b;
+  cout<<"Addition of two nos: "<<c;
+  return 0;
 }
